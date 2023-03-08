@@ -1,3 +1,5 @@
+# © Hugo ROBLES
+
 from GameControl import *
 
 # Importation de la class GameControl
